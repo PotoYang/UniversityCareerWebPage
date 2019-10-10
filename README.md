@@ -2,8 +2,8 @@
 # 全国本科高校就业信息网汇总(排名不分先后)
 
 
-| [四川](#四川) | [重庆](#重庆) | [北京](#北京) | [贵州](#贵州) | [云南](#云南) |
-|--------------|--------------| ----------- | ------------ | -------- |
+| [四川](#四川) | [重庆](#重庆) | [北京](#北京) | [天津](#天津) | [河北](#河北) | [山西](#山西) | [辽宁](#辽宁) | [吉林](#吉林) | [黑龙江](#黑龙江) | [上海](#上海) | [贵州](#贵州) | [云南](#云南) |
+| ------------ | ------------ | ----------- | ------------ | ----------- | ------------ | ------------ | ----------- | --------------- | ------------ | ------------ | ------------ |
 
 
 ## 四川
@@ -78,6 +78,66 @@
 29. 中央美术学院 - 就业创业网：[http://cafa.jysd.com/](http://cafa.jysd.com/)
 30. 北京石油化工学院 - 就业创业指导中心：[http://jobbipt.jysd.com/](http://jobbipt.jysd.com/)
 
+## 天津
+1. 南开大学 - 学生就业指导中心：[http://career.nankai.edu.cn/](http://career.nankai.edu.cn/)
+2. 天津大学 - 就业指导中心：[http://job.twtstudio.com/main](http://job.twtstudio.com/main)
+3. 天津工业大学 - 就业指导中心：[http://job.tjpu.edu.cn/](http://job.tjpu.edu.cn/)
+4. 天津科技大学 - 就业信息网：[http://jy.tust.edu.cn/](http://jy.tust.edu.cn/)
+5. 天津理工大学 - 就业资讯网：[http://jy.tjut.edu.cn/](http://jy.tjut.edu.cn/)
+
+## 河北
+1. 河北工业大学 - 就业指导中心：[http://career.hebut.edu.cn/](http://career.hebut.edu.cn/)
+2. 华北理工大学 - 招生就业处：[http://zsjyc.ncst.edu.cn/](http://zsjyc.ncst.edu.cn/)
+3. 燕山大学 - 就业服务信息网：[http://job.ysu.edu.cn/default.html](http://job.ysu.edu.cn/default.html)
+4. 河北科技大学 - 就业信息网：[http://job.hebust.edu.cn/](http://job.hebust.edu.cn/)
+5. 河北工程大学 - 就业创业信息网：[http://jiuye.hebeu.edu.cn/](http://jiuye.hebeu.edu.cn/)
+6. 石家庄铁道大学 - 就业信息网：[http://stdu.bysjy.com.cn/module/careers?menu_id=13797](http://stdu.bysjy.com.cn/module/careers?menu_id=13797)
+
+## 山西
+1. 太原理工大学 - 就业信息服务网：[http://jiuye.tyut.edu.cn/](http://jiuye.tyut.edu.cn/)
+2. 山西大学 - 就业创业网：[http://sxu.jysd.com/](http://sxu.jysd.com/)
+3. 太原科技大学 - 就业信息网：[http://job.tyust.edu.cn/](http://job.tyust.edu.cn/)
+
+## 辽宁
+1. 大连医科大学 - 就业信息网：[http://dmu.bysjy.com.cn/](http://dmu.bysjy.com.cn/)
+2. 大连理工大学 - 毕业生就业信息网：[http://202.118.65.2/app/index.html](http://202.118.65.2/app/index.html)
+3. 东北大学 - 毕业生就业信息网：[http://job.neu.edu.cn/](http://job.neu.edu.cn/)
+4. 辽宁大学 - 就业信息网：[http://job.lnu.edu.cn/](http://job.lnu.edu.cn/)
+5. 大连海事大学 - 就业信息网：[http://myjob.dlmu.edu.cn/portal/home.html](http://myjob.dlmu.edu.cn/portal/home.html)
+6. 大连大学 - 就业网：[http://career.dlu.edu.cn/](http://career.dlu.edu.cn/)
+7. 沈阳理工大学 - 招生就业网：[http://zsjy.sylu.edu.cn/plus/list.php?tid=6](http://zsjy.sylu.edu.cn/plus/list.php?tid=6)
+8. 中国医科大学 - 就业网：[http://jy.cmu.edu.cn/](http://jy.cmu.edu.cn/)
+9. 大连海洋大学 - 就业信息网：[http://job.dlou.edu.cn/](http://job.dlou.edu.cn/)
+10. 沈阳医学院 - 就业信息网：[http://symc.bysjy.com.cn/](http://symc.bysjy.com.cn/)
+
+## 吉林
+1. 吉林大学 - 就业网：[http://jdjyw.jlu.edu.cn/](http://jdjyw.jlu.edu.cn/)
+2. 延边大学 - 就业信息网：[http://career.ybu.edu.cn/](http://career.ybu.edu.cn/)
+3. 长春大学 - 就业信息网：[http://ccdx.bibibi.net/](http://ccdx.bibibi.net/)
+
+## 黑龙江
+1. 东北林业大学 - 就业指导与合作发展处：[http://job.nefu.edu.cn/](http://job.nefu.edu.cn/)
+2. 哈尔滨工业大学 - 就业网：[http://job.hit.edu.cn/](http://job.hit.edu.cn/)
+3. 哈尔滨工程大学 - 就业服务平台：[http://job.hrbeu.edu.cn/HrbeuJY/web](http://job.hrbeu.edu.cn/HrbeuJY/web)
+4. 黑龙江大学 - 就业信息网：[http://job.hlju.edu.cn/](http://job.hlju.edu.cn/)
+5. 东北农业大学 - 就业信息网：[http://job.neau.edu.cn/](http://job.neau.edu.cn/)
+
+## 上海
+1. 复旦大学 - 学生职业发展教育服务中心：[https://career.fudan.edu.cn/](https://career.fudan.edu.cn/)
+2. 同济大学 - 就业网：[https://tj91.tongji.edu.cn/](https://tj91.tongji.edu.cn/)
+3. 上海交通大学 - 就业网：[http://www.job.sjtu.edu.cn/](http://www.job.sjtu.edu.cn/)
+4. 华东理工大学 - 就业信息服务网：[https://career.ecust.edu.cn/](https://career.ecust.edu.cn/)
+5. 东华大学 - 学生就业创业服务网：[http://ejob.dhu.edu.cn/](http://ejob.dhu.edu.cn/)
+6. 华东师范大学 - 就业服务网：[https://career.ecnu.edu.cn/common/index.aspx](https://career.ecnu.edu.cn/common/index.aspx)
+7. 上海外国语大学 - 学生就业创业服务网：[http://career.shisu.edu.cn/](http://career.shisu.edu.cn/)
+8. 上海财经大学 - 春华秋韵就业网：[http://career.sufe.edu.cn//](http://career.sufe.edu.cn//)
+9. 上海大学 - 就业信息服务网：[http://zbb.shu.edu.cn/New/Index.aspx](http://zbb.shu.edu.cn/New/Index.aspx)
+10. 上海理工大学 - 就业信息服务网：[https://91.usst.edu.cn/](https://91.usst.edu.cn/)
+11. 上海海事大学 - 就业创业信息服务网：[http://job.shmtu.edu.cn/](http://job.shmtu.edu.cn/)
+12. 上海师范大学 - 就业信息网：[http://shnu.jysd.com/](http://shnu.jysd.com/)
+13. 上海音乐学院 - 就业招聘：[https://xsc.shcmusic.edu.cn/category/stu/jyzp.html](https://xsc.shcmusic.edu.cn/category/stu/jyzp.html)
+
+
 ## 贵州
 
 1. 贵州大学 - 就业工作信息平台：[http://aoff.gzu.edu.cn/gzujobs/client/index](http://aoff.gzu.edu.cn/gzujobs/client/index)
@@ -93,4 +153,3 @@
 6. 云南民族大学 - 就业创业信息网：[http://jyb.ynni.edu.cn/index](http://jyb.ynni.edu.cn/index)
 7. 云南林业大学 - 就业创业云服务平台：[http://job.swfu.edu.cn/](http://job.swfu.edu.cn/)
 8. 昆明医科大学 - 就业信息网：[http://job.kmmc.cn/](http://job.kmmc.cn/)
-
